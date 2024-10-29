@@ -26,7 +26,10 @@ Ghost
 "Scary Halloween Ghost" (https://skfb.ly/6X9Yw) by Akshat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 ## Team meetings
 Monday, October 14: Discussed how were planned on dividing the project, theme style and future meetings
+
 Wednesday, October 23: Tried to set up github and migrate blueprints and level. As well as debugging blueprints
+
 Thursday, October 24: Tried to merge projects and settled on partially merging into a main project and fixing broken elements. 
+
 Monday, October 28: Planning for videos, checking the project,
 and turning it in
