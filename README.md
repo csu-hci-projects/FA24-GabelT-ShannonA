@@ -1,6 +1,6 @@
 # FA24-GabelT-ShannonA
 ## How the application runs
-
+The application uses Unreal Engine. Opening the .uproject file named "Homework1" will open the game on Unreal Engine. No other applications are necessary.
 ## Team members and contributions
 ### Ali Shannon
 * Menu and Level 1
