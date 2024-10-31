@@ -19,6 +19,7 @@ https://youtu.be/dNMAJEpVe_Q
 ## Video of blueprints
 
 ## Link to AI report
+[Ai report](https://docs.google.com/document/d/1Ro41oczyxCYiKaF0uzU1S5OSIxEgjzRJTavgIJBADVQ/edit?usp=sharing)
 
 ## Assets used
 Spike model
