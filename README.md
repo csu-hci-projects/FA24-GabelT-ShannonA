@@ -1,6 +1,9 @@
 # FA24-GabelT-ShannonA
 ## How the application runs
+Our current and complete project version is available in this repo: 
+
 https://github.com/TianaGabel/HW1/tree/main/Homework1
+
 The application uses Unreal Engine. Opening the .uproject file named "Homework1" in the above repository will open the game on Unreal Engine where it can be run in the editor.
 ## Team members and contributions
 ### Ali Shannon
