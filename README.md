@@ -1,6 +1,7 @@
 # FA24-GabelT-ShannonA
 ## How the application runs
-The application uses Unreal Engine. Opening the .uproject file named "Homework1" in this repository will open the game on Unreal Engine where it can be run in the editor.
+https://github.com/TianaGabel/HW1/tree/main/Homework1
+The application uses Unreal Engine. Opening the .uproject file named "Homework1" in the above repository will open the game on Unreal Engine where it can be run in the editor.
 ## Team members and contributions
 ### Ali Shannon
 * Menu and Level 1
@@ -8,15 +9,18 @@ The application uses Unreal Engine. Opening the .uproject file named "Homework1"
 * User UI and flashlight
 * Ammo logic
 * Level logic
+* Features video
 ### Tatiana Gabel
 * Level 2
 * Targets and Hazards
 * Target health bar
 * Health logic
+* BP video
 ## Video of features
 https://youtu.be/dNMAJEpVe_Q
 
 ## Video of blueprints
+https://youtu.be/JqjJgWxLg08
 
 ## Link to AI report
 [Ai report](https://docs.google.com/document/d/1Ro41oczyxCYiKaF0uzU1S5OSIxEgjzRJTavgIJBADVQ/edit?usp=sharing)
