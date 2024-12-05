@@ -1,4 +1,22 @@
 # FA24-GabelT-ShannonA
+# Homework 2
+## How the application runs
+## Team members and contributions
+### Ali Shannon
+* Level design
+* Level Logic
+* Targets and updates
+* Teleport zones
+* Features video
+### Tatiana Gabel
+* Pistol and spatial ui
+* Target movement
+* BP video
+## Video of Features
+## Video of blueprints
+## AI report
+
+# Homework 1
 ## How the application runs
 Our current and complete project version is available in this repo: 
 
