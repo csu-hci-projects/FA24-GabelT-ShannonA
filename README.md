@@ -1,6 +1,7 @@
 # FA24-GabelT-ShannonA
 # Homework 2
 ## How the application runs
+The application uses Unreal Engine. Opening the .uproject file named "Homework1" in the above repository will open the game on Unreal Engine where it can be run in the editor.
 ## Team members and contributions
 ### Ali Shannon
 * Level design
@@ -15,6 +16,8 @@
 ## Video of Features
 ## Video of blueprints
 ## AI report
+## Team meetings
+
 
 # Homework 1
 ## How the application runs
