@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/MyBlueprints/MyGrabbable.uasset",
+				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/Lab3Level.umap",
+				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/MyBlueprints/ChairGrabbable.uasset",
+				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/MyBlueprints/TableGrabbable.uasset",
+				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/MyLevel.umap",
+				"C:/Users/ashanno/Documents/Unreal Projects/Lab3/Content/MyBlueprints/VRTarget.uasset"
+			]
+		}
+	]
+}
