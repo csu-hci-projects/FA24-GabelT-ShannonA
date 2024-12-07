@@ -12,11 +12,12 @@ The application uses Unreal Engine. Opening the .uproject file named "Homework2"
 ### Tatiana Gabel
 * Pistol and spatial ui
 * Target movement
+* Features Video
 * BP video
 ## Video of Features
 https://youtu.be/2-tdrcROZdw
 ## Video of blueprints
-
+https://youtu.be/xqDVNadqkeg
 ## AI report
 [Ai report](https://docs.google.com/document/d/1DMeSSZgKu1G_MZ0tzTevXvTNQSRe4XVH-Q72jtHXP4s/edit?usp=sharing)
 ## Team meetings
@@ -24,9 +25,9 @@ November 17th: Splitting up responsibilities and work on labs 4 and 5
 
 November 22nd: Final lab working on base functionality
 
-December 2nd:In-class meeting
+December 2nd:In-class meeting and discussion of how to divide remaining work
 
-December 4th:In-class meeting
+December 4th:In-class meeting and discussion of extra credit options
 
 December 5th: Meeting to combine projects and create videos
 
